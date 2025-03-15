@@ -1,3 +1,4 @@
+// https://youtu.be/9T06nmcu3f4
 // No prameter
 // node game.js
 // Invalid dice configuration "2,2,4,5,9,f". All values must be integers.
